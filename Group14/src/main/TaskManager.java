@@ -7,8 +7,7 @@ import view.MainGUI;
 import view.dialog.Dialog;
 
 
-
-//adkajsdja
+//try to merge with master
 public class TaskManager {
 
 	private MainGUI gui;
