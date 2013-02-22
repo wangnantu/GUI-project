@@ -6,7 +6,6 @@ import java.awt.event.ActionListener;
 import view.MainGUI;
 import view.dialog.Dialog;
 
-//test 2
 
 public class TaskManager {
 
