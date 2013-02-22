@@ -6,11 +6,8 @@ import java.awt.event.ActionListener;
 import view.MainGUI;
 import view.dialog.Dialog;
 
-
-
-//try to merge
-//sa
-
+//test
+//sfdasfasdf
 public class TaskManager {
 
 	private MainGUI gui;
