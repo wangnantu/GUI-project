@@ -6,8 +6,6 @@ package model;
  * @since       22 Feb 2013         
  */
 
-
-
 import java.text.DateFormat;
 import java.util.Date;
 

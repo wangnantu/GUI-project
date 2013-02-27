@@ -2,21 +2,9 @@
 <root>
   DataHandlingXML root
   <Task>
-    <Label>fasfafasdf</Label>
+    <Label>dshs</Label>
     <Priority>Low</Priority>
-    <Category>Work</Category>
-    <Reminder>2013-2-26</Reminder>
-  </Task>
-  <Task>
-    <Label>hkjhkj</Label>
-    <Priority>Low</Priority>
-    <Category>Work</Category>
-    <Reminder>2013-2-25</Reminder>
-  </Task>
-  <Task>
-    <Label>csdfas</Label>
-    <Priority>Low</Priority>
-    <Category>Work</Category>
-    <Reminder>2013-2-26</Reminder>
+    <Category>School</Category>
+    <Reminder>2013-2-22</Reminder>
   </Task>
 </root>
