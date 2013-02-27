@@ -10,7 +10,7 @@ package model;
 
 import java.text.DateFormat;
 import java.util.Date;
-//merge
+
 public class Task {
 
 	private String label, category, priority, dueTime;
