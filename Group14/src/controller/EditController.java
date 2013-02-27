@@ -13,6 +13,7 @@ import view.MainWindow;
 public class EditController {
 	public EditController() {
 	}
+//test
 	
 	public void removeTask(Task task) {
 		DataHandlingXML.getHandler().removeTask(task);
